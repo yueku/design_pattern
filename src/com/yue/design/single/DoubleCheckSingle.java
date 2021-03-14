@@ -1,7 +1,7 @@
 package com.yue.design.single;
 
 /**
- * 双重锁检查的单例，没有现成安全问题
+ * 双重锁检查的单例，没有线程安全问题
  */
 public class DoubleCheckSingle {
     /**

@@ -1,7 +1,7 @@
 package com.yue.design.single;
 
 /**
- * 饿汉式单例
+ * 饿汉式单例，无线程安全问题
  */
 public class HungerSingle {
     private static HungerSingle INSTANCE = new HungerSingle();
