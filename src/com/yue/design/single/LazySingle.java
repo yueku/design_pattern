@@ -3,6 +3,7 @@ package com.yue.design.single;
 /**
  * 懒汉式单例
  * 此单例模式有线程安全问题
+ * @author yuekui
  */
 public class LazySingle {
     private static LazySingle INSTANCE;
