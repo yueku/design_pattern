@@ -3,6 +3,7 @@ package com.yue.design.single;
 /**
  * 静态内部类的单例
  * 静态内部类无法传参
+ * @author yuekui
  */
 public class StaticClassSingle {
     private static class Single {
