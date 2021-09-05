@@ -2,6 +2,7 @@ package com.yue.design.single;
 
 /**
  * 双重锁检查的单例，没有线程安全问题
+ * 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
  */
 public class DoubleCheckSingle {
     /**
